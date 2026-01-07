@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ThreeKit Modular Parser",
+  "version": "1.0",
+  "description": "Modular parser for ThreeKit URLs.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "TK Parser"
+  },
+  "permissions": ["activeTab"]
+}
